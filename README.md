@@ -10,5 +10,5 @@ up_vote -user "Username" -pass "Password" -sub "Subname"
 
 ```
 Up votes all posts on /new in a given subreddit.
-Entropy/Delay is added between all actions and 1/3rd of all posts' comments are viewed.
+Entropy/Delay is added between all actions and 1/4th of all posts' comments are viewed.
 ```
